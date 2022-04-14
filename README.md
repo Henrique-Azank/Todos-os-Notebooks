@@ -3,3 +3,4 @@ Repositório que agrupa SOMENTE jupyter notebooks de todos os temas abordados no
 
 NOTA IMPORTANTE: Estes notebooks são frutos de meu estudo/investigação pessoal.
 Dessa forma, eles não se econtram em um estado de formatação para "Publicação" aqui no Github. 
+Para uma melhor experiência, baixe os arquivos e utilize VSCode para visualizar. 
